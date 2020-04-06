@@ -11,4 +11,11 @@ Perhaps the best place to start when illustrating metashellet is the Turtle Acad
 
 https://turtleacademy.com/
 
+Perhaps the take away lessons from Turtle Academy are:
 
+- anyone can learn to program with a simple programming language
+- a simple programming language like LOGO can draw simple to complex shapes
+
+These simple principles have been lost in recent years as more complex programming languages become mainstream, with perhaps Python being regarded as "the simplest" of them all.
+
+less is more, KISS keep it simple stu***
