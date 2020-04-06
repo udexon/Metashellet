@@ -13,6 +13,12 @@ The answers to this question are like layers of an onion.
 
 The most immediate benefit is to learn a programming language that can be used to simplify ANY programming language, from Python, JavaScript, PHP to Java, C, C++, Haskell, Go, Rust, LISP, etc ... This immediately solves one of the biggest problems in the computing industry -- age discrimination and obsolesence, i.e. older programmers do not need to be "retired" as they can now use Phos, derived from Forth, as an interface to any new programming language, framework, environment or operating system.
 
+Next, the readers may wonder, even if Phos helps programmers master any and all programming languages, why "metaprogramming", i.e. to learn "how to program a program tha can be used to program another program"?
+
+The short answer is that, metaprogramming is the bridge to artificial intelligence and unifying programming and mathematics.
+
+The long answer is .... many possible PhD theses.
+
 The name Metashellet is perhaps yet another evolving term, conceived to describe a simple yet complicated module, embeddable in any program, any programming language and any operting system, that is perhaps the most significant breakthrough in computing technology since the invention of the World Wide Web, iPhone and Androi.
 
 As such, describing metashellet to ordinary users today could be like explaining WWW to men in the street before it was invented, similarly with iPhone and Android. 
