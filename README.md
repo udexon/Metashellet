@@ -44,6 +44,8 @@ https://github.com/udexon/SymForth
 
 https://github.com/udexon/DatongToken/blob/master/Datong_3_in_1.md
 
+ID-less transactions (messaging) and metashellet can be used to simulate human speech, human language and human like artificial intelligence. .... examples ....
+
 https://github.com/udexon/PhosCloudless 
 
 
