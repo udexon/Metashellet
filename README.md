@@ -9,6 +9,10 @@ Metashellet is derived from metaprogramming and shell. "Shellet", literally "a s
 
 Some readers may wonder, why would "anyone" want to learn metaprogramming, or something that "unifies programming and mathematis"?
 
+The answers to this question are like layers of an onion.
+
+The most immediate benefit is to learn a programming language that can be used to simplify ANY programming language, from Python, JavaScript, PHP to Java, C, C++, Haskell, Go, Rust, LISP, etc ...
+
 The name Metashellet is perhaps yet another evolving term, conceived to describe a simple yet complicated module, embeddable in any program, any programming language and any operting system, that is perhaps the most significant breakthrough in computing technology since the invention of the World Wide Web, iPhone and Androi.
 
 As such, describing metashellet to ordinary users today could be like explaining WWW to men in the street before it was invented, similarly with iPhone and Android. 
