@@ -3,6 +3,8 @@ A Forth derived Reverse Polish Notation shell for metaprogramming, embeddable in
 
 <hr>
 
+The purpose of this web page is to introduce Phos Metashellet, a programmable shell with a simple programming language that anyone can learn, which ultimately unifies both programming and mathematics.
+
 The name Metashellet is perhaps yet another evolving term, conceived to describe a simple yet complicated module, embeddable in any program, any programming language and any operting system, that is perhaps the most significant breakthrough in computing technology since the invention of the World Wide Web, iPhone and Androi.
 
 As such, describing metashellet to ordinary users today could be like explaining WWW to men in the street before it was invented, similarly with iPhone and Android. 
