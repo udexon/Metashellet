@@ -5,7 +5,7 @@ A Forth derived Reverse Polish Notation shell for metaprogramming, embeddable in
 
 The purpose of this web page is to introduce Phos Metashellet, a programmable shell with a simple programming language that anyone can learn, which ultimately unifies both programming and mathematics.
 
-Metashellet is derived from metaprogramming and shell. "Shellet" implies that it can be embedded in any program, any programming language and any operting system, as the subtitle of the page suggests.
+Metashellet is derived from metaprogramming and shell. "Shellet", literally "a smaller shell", implies that it can be embedded in any program, any programming language and any operting system, as the subtitle of the page suggests.
 
 The name Metashellet is perhaps yet another evolving term, conceived to describe a simple yet complicated module, embeddable in any program, any programming language and any operting system, that is perhaps the most significant breakthrough in computing technology since the invention of the World Wide Web, iPhone and Androi.
 
