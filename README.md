@@ -18,4 +18,15 @@ Perhaps the take away lessons from Turtle Academy are:
 
 These simple principles have been lost in recent years as more complex programming languages become mainstream, with perhaps Python being regarded as "the simplest" of them all.
 
+So it is one of our goals to .... and beyond ....
+
 less is more, KISS keep it simple stu***
+
+
+https://github.com/udexon/GOEHDOM/blob/master/Phos_Smashlet.md
+https://github.com/udexon/Homoiconism/blob/master/Phos_Unicode.png
+https://github.com/udexon/DatongToken/blob/master/Datong_3_in_1.md
+https://github.com/udexon/SymForth
+https://github.com/pwittchen/ReactiveSensors
+https://github.com/udexon/Homoiconism/blob/master/Android_Java_Phos.md
+https://github.com/udexon/PhosCloudless 
