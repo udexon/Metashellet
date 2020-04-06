@@ -11,7 +11,7 @@ Some readers may wonder, why would "anyone" want to learn metaprogramming, or so
 
 The answers to this question are like layers of an onion.
 
-The most immediate benefit is to learn a programming language that can be used to simplify ANY programming language, from Python, JavaScript, PHP to Java, C, C++, Haskell, Go, Rust, LISP, etc ...
+The most immediate benefit is to learn a programming language that can be used to simplify ANY programming language, from Python, JavaScript, PHP to Java, C, C++, Haskell, Go, Rust, LISP, etc ... This immediately solves one of the biggest problems in the computing industry -- age discrimination and obsolesence, i.e. older programmers do not need to be "retired" as they can now use Phos, derived from Forth, as an interface to any new programming language, framework, environment or operating system.
 
 The name Metashellet is perhaps yet another evolving term, conceived to describe a simple yet complicated module, embeddable in any program, any programming language and any operting system, that is perhaps the most significant breakthrough in computing technology since the invention of the World Wide Web, iPhone and Androi.
 
