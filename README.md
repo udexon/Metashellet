@@ -18,6 +18,10 @@ Perhaps the take away lessons from Turtle Academy are:
 
 These simple principles have been lost in recent years as more complex programming languages become mainstream, with perhaps Python being regarded as "the simplest" of them all.
 
+no more difficult than Excel
+
+unifying programming and mathematics
+
 So it is one of our goals to .... and beyond ....
 
 less is more, KISS keep it simple stu***
