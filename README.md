@@ -53,9 +53,9 @@ https://github.com/udexon/PhosCloudless
 
 #### Long Term Goals of Metashellet
 
-Training on Metashellet will achieve the following:
+We provide training on Metashellet to achieve the following:
 
-    a. provide the necessary skills to recruited programmers to work together to develop free and open source software (FOSS). FOSS can be used develop other projects under Vision 77, e.g. ID-less transactions, Home Cook Delivery, Properties & Beauties, etc.
+    a. provide the necessary skills to recruited programmers to work together to develop free and open source software (FOSS) using metashellet methodology.
        
     b. Metashellet provides a simple programming language based on Forth that can be targeted to non-programmers from 5 years old to 75 years old, revolutionizing education in programming and mathematics.
 
