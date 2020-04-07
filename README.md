@@ -55,13 +55,10 @@ https://github.com/udexon/PhosCloudless
 
 We provide training on Metashellet to achieve the following:
 
-    a. provide the necessary skills to recruited programmers to work together to develop free and open source software (FOSS) using metashellet methodology.
+- provide the necessary skills to recruited programmers to work together to develop free and open source software (FOSS) using metashellet methodology.
        
-    b. Metashellet provides a simple programming language based on Forth that can be targeted to non-programmers from 5 years old to 75 years old, revolutionizing education in programming and mathematics.
+- Metashellet provides a simple programming language based on Forth, perhaps as easy as Microsoft Excel, that can be targeted to non-programmers from 5 years old to 75 years old, revolutionizing education in programming and mathematics.
 
-
-Emphasize: 
-- as easy as Excel, 
 - everyone learn one word at a time, build cloudless computing, 
 - free software revolution 2.0, clone MAGAF, owned by everyone, 
 - absolute privacy via ID-less transactions. 
