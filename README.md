@@ -92,7 +92,7 @@ https://opentechschool.github.io/python-beginners/en/simple_drawing.html
 
 We shall demonstrate that how a Phos Metashellet written in Python can extend the functionalities of turtle graphics into something more ambitious, while keeping the programming language to be no more complicated than Microsoft Excel.
 
-So this will be is one of the first few simple steps in our journey .... to ultimately unifying programming and mathematics with Phos Metashellet.
+So this will be is one of the first few simple steps in our journey .... to ultimately unify programming and mathematics with Phos Metashellet.
 
 https://github.com/udexon/Metashellet/blob/master/turtle1.py
 
