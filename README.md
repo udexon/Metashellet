@@ -86,11 +86,14 @@ Perhaps the take away lessons from Turtle Academy are:
 
 These simple principles have been lost in recent years as more complex programming languages become mainstream, with perhaps Python being regarded as "the simplest" of them all.
 
-no more difficult than Excel
+Incidentally, a turtle graphics library has been ported to Python:
 
-unifying programming and mathematics
+https://opentechschool.github.io/python-beginners/en/simple_drawing.html
 
-So it is one of our goals to .... and beyond ....
+We shall demonstrate that how a Phos Metashellet written in Python can extend the functionalities of turtle graphics into something more ambitious, while keeping the programming language to be no more complicated than Microsoft Excel.
+
+So this will be is one of the first few simple steps in our journey .... to ultimately unifying programming and mathematics with Phos Metashellet.
+
 
 
 
