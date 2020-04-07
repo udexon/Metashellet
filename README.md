@@ -48,7 +48,7 @@ ID-less transactions (messaging) and metashellet can be used to simulate human s
 
 https://github.com/udexon/PhosCloudless 
 
-
+Emphasize: as easy as Excel, everyone learn one word at a time, build cloudless computing, free software revolution 2.0, clone MAGAF, owned by everyone, absolute privacy via ID-less transactions. 
 
 
 The name Metashellet is perhaps yet another evolving term, conceived to describe a simple yet complicated module, embeddable in any program, any programming language and any operting system, that is perhaps the most significant breakthrough in computing technology since the invention of the World Wide Web, iPhone and Androi.
