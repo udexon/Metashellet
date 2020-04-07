@@ -69,7 +69,9 @@ ID-less transactions: the Unix User ID convention, based on symmetric cryptograp
 
 <hr>
 
-The name Metashellet is perhaps yet another evolving term, conceived to describe a simple yet complicated module, embeddable in any program, any programming language and any operting system, that is perhaps the most significant breakthrough in computing technology since the invention of the World Wide Web, iPhone and Androi.
+#### Less is More, Keep It Simple Stu***
+
+The name Metashellet is perhaps yet another evolving term, conceived to describe a simple yet complicated module, embeddable in any program, any programming language and any operting system, that is perhaps the most significant breakthrough in computing technology since the invention of the World Wide Web, iPhone and Android.
 
 As such, describing metashellet to ordinary users today could be like explaining WWW to men in the street before it was invented, similarly with iPhone and Android. 
 
@@ -90,5 +92,5 @@ unifying programming and mathematics
 
 So it is one of our goals to .... and beyond ....
 
-less is more, KISS keep it simple stu***
+
 
