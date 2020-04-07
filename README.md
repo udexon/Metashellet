@@ -61,9 +61,11 @@ We provide training on Metashellet to achieve the following:
 
 - a little known feature of Forth, colon definition, which uses the term "word" to describe function name, allows users to arbitrarily rename or alias function names, including using Unicode to represent native mother tongue words, not only helps non Latin learners tremendously, but it litetally lets everyone "learn one word at a time", making learning programming as easy as (Lotus) 1-2-3 (the world's top spreadsheet software that predated Microsoft Excel).
 
-build cloudless computing, 
-- free software revolution 2.0, clone MAGAF, owned by everyone, 
-- absolute privacy via ID-less transactions. 
+If Free Software Revolution 1.0 is the creation of GNU Linux tools and the subsequent development that created the Internet and mobile infrastructure that we have today, we shall define Free Software Revolution as free software programmers  CLONING existing mobile and Internet platforms owned by MAGAF (Microsoft Apple Google Amazon Facebook) and other tech giants, to create platforms that are owned by EVERYONE, not single corporations. Metashellet and ID-less transactions will gvie rise to Cloudless Computing to realize Free Software Revolution 2.0.
+
+ID-less transactions: the Unix User ID convention, based on symmetric cryptography, has shaped perhaps all of today authentication systems by way of GNU Linux free software movement. Although asymmetric cryptography has been widely used in many applications, e.g. cryptocurrencies, they are not completely removed from Unix style user ID, perhaps due to preconditioned mindset of the developers. Also based on asymmetric cryptography, our ID-less transactions protocol (XIDT) is a radical creation that departs completely from the principles and philosophies of Unix User ID, making it possible to serve as an intermediate and interface system amongst existing centralized Unix style authentication systems.
+
+
 
 <hr>
 
