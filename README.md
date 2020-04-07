@@ -96,6 +96,14 @@ So this will be is one of the first few simple steps in our journey .... to ulti
 
 https://github.com/udexon/Metashellet/blob/master/turtle1.py
 
+<img src="https://github.com/udexon/Metashellet/blob/master/Turtle_SM.png" width=600>
 
+The path shown in the diagram above is drawn using the Reverse Polish Notation expression as shown below, where `f` is mapped to `forward()` and `l` is mapped to `left()`:
 
+```Python
+SM("25 f 45 l 50 f 45 l 50 f")
+```
 
+We intentionally leave the `SM()` (Stack Machine) function to be in a barebone state, as more complete stack machine (metashellet) module can be found in the examples above (PHP, JavaScript, Java).
+
+(Just a little note to declare that we shall continue to use `SM()` for stack machine instead of `MS()` for metashellet, as "MS" is considered an untouchable word for eternity perhaps by most free software programmers. ;-)
