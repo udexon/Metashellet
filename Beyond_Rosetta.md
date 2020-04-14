@@ -47,8 +47,9 @@ Question: Programmers today may ask:
 
 Answer: Contribute to the [Free Software Revolution 2.0](https://github.com/udexon/Metashellet/blob/master/README.md#free-software-revolution-20), by developing Phos "colon definition words", to build up a ___Universal Function Library___, that consists of all functions in any programming language, in any operating system, ever written by human programmers.
 
-- https://github.com/udexon/Metashellet#long-term-goals-of-metashellet
-- Colon Definition Words, where the term "word" is used to describe function name, allows users to arbitrarily rename or alias function names, including using Unicode to represent native mother tongue words, not only helps non Latin learners tremendously, but it literally lets everyone "learn one word at a time", making learning programming as easy as (Lotus) 1-2-3 (the world's top spreadsheet software that predated Microsoft Excel).
+- If Free Software Revolution 1.0 is the creation of GNU Linux tools essentially CLONING proprietary Unix functionalities, and the subsequent development that created the Internet and mobile infrastructure that we have today, we shall define Free Software Revolution 2.0 as free software programmers CLONING existing mobile and Internet platforms owned by MAGAF (Microsoft Apple Google Amazon Facebook) and other tech giants, to create a Cloudless Computing platform that are owned by EVERYONE, not single monolith faceless corporations.
+
+- [Colon Definition Words](https://github.com/udexon/Metashellet#long-term-goals-of-metashellet), where the term "word" is used to describe function name, allows users to arbitrarily rename or alias function names, including using Unicode to represent native mother tongue words, not only helps non Latin learners tremendously, but it literally lets everyone "learn one word at a time", making learning programming as easy as (Lotus) 1-2-3 (the world's top spreadsheet software that predated Microsoft Excel).
 
 
 Question: How can anyone who contributes to the Universal Function Library project be rewarded?
