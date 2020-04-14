@@ -34,6 +34,12 @@ Novelties:
 - one stack per data type
 - Unicode function words (complete mapping of Latin words, essential for learning programming in non-Latin native languages)
 
-Forth origin ....
+Forth has been implemented in various high level host programming languages as follow:
+
+- https://github.com/udexon/GOEHDOM/blob/master/Forth_ports.md
+
+In most of these Forth ports, the developers did not focus on high level issues, e.g. integrating mainstream, host programming language functions, into the Forth framework, but rather, satisfied themselves with executing a partial set of Forth words (function names in Forth lingo). As such, integrating with functions of host programming languages becomes one of the main goals of Phos Metashellet:
+
+- https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md#forth--phos-smashlets
 
 Tower of Babel .... 
