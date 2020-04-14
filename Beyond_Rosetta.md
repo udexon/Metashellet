@@ -1,4 +1,4 @@
-Metashellet: Bringing Rosetta Code to the Next Level
+### Metashellet: Bringing Rosetta Code to the Next Level
 
 https://en.wikipedia.org/wiki/Tower_of_Babel
 
@@ -17,5 +17,9 @@ Phos Metashellet will bring the Rosetta Code project to the next level, becoming
 https://en.wikipedia.org/wiki/Rosetta_Code
 
 http://rosettacode.org/wiki/Rosetta_Code
+
+How does it work?
+
+- Phos Metashellet can be used to ___simplify ANY programming language___](https://github.com/udexon/Metashellet/blob/master/README.md#simplifying-any-programming-language). Metashellet can be implemented in any programming language starting from a mere 20 lines of code of the host programming language (link to Phos example ....) Forth origin ....
 
 Tower of Babel .... 
