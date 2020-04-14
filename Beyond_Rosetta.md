@@ -50,4 +50,13 @@ Answer: Contribute to the [Free Software Revolution 2.0](https://github.com/udex
 - https://github.com/udexon/Metashellet#long-term-goals-of-metashellet
 - Colon Definition Words, where the term "word" is used to describe function name, allows users to arbitrarily rename or alias function names, including using Unicode to represent native mother tongue words, not only helps non Latin learners tremendously, but it literally lets everyone "learn one word at a time", making learning programming as easy as (Lotus) 1-2-3 (the world's top spreadsheet software that predated Microsoft Excel).
 
+
+Question: How can anyone who contributes to the Universal Function Library project be rewarded?
+
+Answers: 
+- [International Money Transfer (including Cryptocurrencies) and Online Tipping](https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md)
+- [A New Type of Blockchain based on ID-less Transactions](https://github.com/udexon/XIDT#a-new-type-of-blockchain-based-on-id-less-transactions)
+
+
+
 Tower of Babel .... 
