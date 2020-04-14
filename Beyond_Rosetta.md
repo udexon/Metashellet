@@ -66,6 +66,8 @@ The Phos Universal Function Library (Phunilib) and cloning MAGAF platforms (Phos
 
 Cloudless Computing ....
 
+Need a small application (footprint) that has huge significance (large number of users): international money transfer (including cryptocurrencies) and online tipping.
+
 YAHUDI
 
 https://github.com/udexon/UCollab/blob/master/UCollab_1203.md
