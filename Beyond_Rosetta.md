@@ -73,6 +73,8 @@ The following projects B to D are taken from [ID-less Transactions (XIDT) Demos]
 - C: "Greet with a Secret Phrase" Protocol
 - D: International Money Transfer (including Cryptocurrencies) and Online Tipping
 - ...
+- X: Inter-game communications
+- Y: Robotics and Artificial Intelligence
 - Z: cloning MAGAF platforms (Phos Cloudless Computing, Phocless)
 
 Cloudless Computing ....
