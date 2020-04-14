@@ -10,6 +10,9 @@ What will happen if the "programmers of the world, unite!", using a single super
 
 (And now we are doing it again to challenge MAGAF.)
 
+Phos Metashellet is a Forth derived Reverse Polish Notation shell for metaprogramming, embeddable in any program, any programming language and any operting system. We coin the name Phos as it rhymes with Forth, and it means "light" in Greek, which dispels the darkness of the IT world, as was inscribed in [the Bible](https://en.wikipedia.org/wiki/Let_there_be_light).
+
+
 https://en.wikipedia.org/wiki/Rosetta_Code
 
 http://rosettacode.org/wiki/Rosetta_Code
