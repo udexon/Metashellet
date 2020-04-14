@@ -20,6 +20,18 @@ http://rosettacode.org/wiki/Rosetta_Code
 
 How does it work?
 
-- Phos Metashellet can be used to [___simplify ANY programming language___](https://github.com/udexon/Metashellet/blob/master/README.md#simplifying-any-programming-language). Metashellet can be implemented in any programming language starting from a mere 20 lines of code of the host programming language (link to Phos example ....) Forth origin ....
+- Phos Metashellet can be used to [___simplify ANY programming language___](https://github.com/udexon/Metashellet/blob/master/README.md#simplifying-any-programming-language). 
+
+Metashellet can be implemented in any programming language starting from a mere 20 lines of code of the host programming language (link to Phos example ....). Based on a simplified implementation of Forth, Phos Metashellet retains the following Forth features:
+- reading inputs from stack and writing outputs to stack
+- branch
+- colon definition words (aliases)
+
+Novelties:
+- intergration with host programming language
+- one stack per data type
+- Unicode function words
+
+Forth origin ....
 
 Tower of Babel .... 
