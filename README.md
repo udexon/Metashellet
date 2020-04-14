@@ -62,7 +62,7 @@ We provide training on Metashellet to achieve the following:
        
 - Metashellet provides a simple programming language based on Forth, perhaps as easy as Microsoft Excel, that can be targeted to non-programmers from 5 years old to 75 years old, revolutionizing education in programming and mathematics.
 
-- a little known feature of Forth, colon definition, which uses the term "word" to describe function name, allows users to arbitrarily rename or alias function names, including using Unicode to represent native mother tongue words, not only helps non Latin learners tremendously, but it litetally lets everyone "learn one word at a time", making learning programming as easy as (Lotus) 1-2-3 (the world's top spreadsheet software that predated Microsoft Excel).
+- a little known feature of Forth, colon definition, which uses the term "word" to describe function name, allows users to arbitrarily rename or alias function names, including using Unicode to represent native mother tongue words, not only helps non Latin learners tremendously, but it literally lets everyone "learn one word at a time", making learning programming as easy as (Lotus) 1-2-3 (the world's top spreadsheet software that predated Microsoft Excel).
 
 
 #### Free Software Revolution 2.0
