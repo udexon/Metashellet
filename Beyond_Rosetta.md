@@ -77,7 +77,13 @@ The following projects B to D are taken from [ID-less Transactions (XIDT) Demos]
 
 Cloudless Computing ....
 
-Need a small application (footprint) that has huge significance (large number of users): international money transfer (including cryptocurrencies) and online tipping.
+Project D is a relatively small application in terms of footprint but can have huge significance in terms of potential number of users).
+
+One of the most immediate and profitable applications of XIDT is inter-game communications. Metashellet basically enables programming any element inside a game using text string input. As long as the source code of a game is available, or a core developer implements metashellet in the game, metashellet programming will be available to all users. 
+
+XIDT will then enable decentralized authentication amongst users, thus making communications between different games possible.
+
+Eventually, all existing game platforms today can become clusters in a hypergame platform, connected using XIDT, programmed by users and developers using metashellets. 
 
 YAHUDI
 
