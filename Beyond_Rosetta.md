@@ -22,7 +22,9 @@ How does it work?
 
 - Phos Metashellet can be used to [___simplify ANY programming language___](https://github.com/udexon/Metashellet/blob/master/README.md#simplifying-any-programming-language). 
 
-Metashellet can be implemented in any programming language starting from a mere 20 lines of code of the host programming language (link to Phos example ....). Based on a simplified implementation of Forth, Phos Metashellet retains the following Forth features:
+Metashellet can be implemented in any programming language starting from a mere 20 lines of code of the host programming language [(demos)](https://github.com/udexon/Metashellet/blob/master/README.md#phos-metashellet-for-php-and-javascript). 
+
+Based on a simplified implementation of Forth, Phos Metashellet retains the following Forth features of a stack machine shell:
 - reading inputs from stack and writing outputs to stack
 - branch
 - colon definition words (aliases)
@@ -30,7 +32,7 @@ Metashellet can be implemented in any programming language starting from a mere 
 Novelties:
 - intergration with host programming language
 - one stack per data type
-- Unicode function words
+- Unicode function words (complete mapping of Latin words, essential for learning programming in non-Latin native languages)
 
 Forth origin ....
 
