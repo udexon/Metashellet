@@ -58,6 +58,7 @@ Answers:
 - [International Money Transfer (including Cryptocurrencies) and Online Tipping](https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md)
 - [A New Type of Blockchain based on ID-less Transactions](https://github.com/udexon/XIDT#a-new-type-of-blockchain-based-on-id-less-transactions)
 
+Cloudless Computing ....
 
 
 Tower of Babel .... 
