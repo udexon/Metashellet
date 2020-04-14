@@ -42,4 +42,13 @@ In most of these Forth ports, the developers did not focus on high level issues,
 
 - https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md#forth--phos-smashlets
 
+Question: Programmers today may ask:
+- Is there anything else I can do besides writing small pieces of code for my company's project?
+
+Answer: Contribute to the [Free Software Revolution 2.0](https://github.com/udexon/Metashellet/blob/master/README.md#free-software-revolution-20).
+
+https://github.com/udexon/Metashellet#long-term-goals-of-metashellet
+
+- a little known feature of Forth, colon definition, which uses the term "word" to describe function name, allows users to arbitrarily rename or alias function names, including using Unicode to represent native mother tongue words, not only helps non Latin learners tremendously, but it litetally lets everyone "learn one word at a time", making learning programming as easy as (Lotus) 1-2-3 (the world's top spreadsheet software that predated Microsoft Excel).
+
 Tower of Babel .... 
