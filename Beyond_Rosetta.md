@@ -58,7 +58,7 @@ Answers:
 - [International Money Transfer (including Cryptocurrencies) and Online Tipping](https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md)
 - [A New Type of Blockchain based on ID-less Transactions](https://github.com/udexon/XIDT#a-new-type-of-blockchain-based-on-id-less-transactions)
 
-The Phos Universal Function Library (Phunilib) and cloning MAGAF platforms represent the two ends of the spectrum of the Free Software Revolution 2.0.
+The Phos Universal Function Library (Phunilib) and cloning MAGAF platforms (Phos Cloudless Computing, Phocless) represent the two ends of the spectrum of the Free Software Revolution 2.0, which ___AYNONE___, from 5 years old to 75 years old, programmers and non-programmers can contribute.
 
 Cloudless Computing ....
 
