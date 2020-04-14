@@ -1,5 +1,9 @@
 ### Metashellet: Bringing Rosetta Code to the Next Level
 
+- Currently, code on Rosetta Code cannot be used as components of large applications without substantial modifications.
+- With Phos Metashellet, each function in Rosetta Code can be stored as function words and be reused in larger programs. 
+- Of course, such benefits are not just restricted to Rosetta Code, but any function in open source repositories such as GitHub or equivalent can also be reused as function words in Phos Metashellet.
+
 https://en.wikipedia.org/wiki/Tower_of_Babel
 
 The tale of the Tower of Babel has been brought to every corner of the Earth, thanks to [Chinese merchants](https://en.wikipedia.org/wiki/Howqua) funding European Christian colonizers.
