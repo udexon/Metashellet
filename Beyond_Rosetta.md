@@ -154,3 +154,9 @@ Eventually, all existing game platforms today can become clusters in a hypergame
 - Cloudless Computing ....
 
 Tower of Babel and Cloudless Computing are the different names of the same thing ....
+
+From the list of Phos Metashellet projects above, we may say that they are indeed unprecedented in human history in many respects:
+
+- They make use of free time of free software programmers, from beginners to experts. Theoretically, the cumulative free time of free software programmers is a very large number, but has not been systematically quantified, except using the number of lines committed to free software repositories such as GitHub or equivalent.
+
+- They show that nothing is too big to conquer, just like the Tower of Babel. Of course no body actually knew what happened which made the workers of the Tower of Babel disintegrated. But as history has proven time and again, proletariat workers and farmers unite times and again, bringing forth revolutions after revolutions. The next revolution, the Free Software Revolution 2.0, might just be the most invisible and yet as significant as the many proletariat revolutions in the past.
