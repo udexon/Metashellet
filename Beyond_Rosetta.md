@@ -110,6 +110,8 @@ We find it rather curious that despite the great number of social networks that 
 
 I suspect no one has an up to date, systematic and comprehensive answer to this critical question, that does not just affect the lives of programmers, but economies of the world, as programming is now vital to every field of human activities.
 
+Economics is perhaps yet another subject intentionally made overcomplicated by so called "experts" so that ordinary people cannot learn the language that will influence public policy decision makers, thus monopolized by giant faceless banks and corporations.
+
 Project E: is a relatively small application in terms of footprint but can have huge significance in terms of potential number of users).
 
 Project H: One of the most immediate and profitable applications of XIDT is inter-game communications. Metashellet basically enables programming any element inside a game using text string input. As long as the source code of a game is available, or a core developer implements metashellet in the game, metashellet programming will be available to all users. 
