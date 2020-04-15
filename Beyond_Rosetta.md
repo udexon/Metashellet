@@ -98,7 +98,7 @@ Two essential steps for Phunilib:
 Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized Unix style user ID authentication, including database management systems. XIDT may be used to implement a novel type of DBMS, either by interfacing to an existing Unix style user ID DBMS, or developing the DBMS system completely from scratch.
 
 
-#### D: Programmers Apprenticeship Networks
+#### D: Programmer Apprenticeship Networks
 
 We find it rather curious that despite the great number of social networks that have been created, none of them is dedicated to helping trainers training trainees, enabling trainers and trainess to form larger networks, which may then be able to challenge huge corporations. 
 
@@ -111,6 +111,8 @@ We find it rather curious that despite the great number of social networks that 
 I suspect no one has an up to date, systematic and comprehensive answer to this critical question, that does not just affect the lives of programmers, but economies of the world, as programming is now vital to every field of human activities.
 
 Economics is perhaps yet another subject intentionally made overcomplicated by so called "experts" so that ordinary people cannot learn the language that will influence public policy decision makers, thus monopolized by giant faceless banks and corporations.
+
+When we consider programmer apprenticeship in large scale, then it becomes apparent that perhaps ordinary people's income can be improved greatly if we have an effective and efficient programmer apprenticeship network. All these questions can of course be simulated easily given today's technology and talents.
 
 Project E: is a relatively small application in terms of footprint but can have huge significance in terms of potential number of users).
 
