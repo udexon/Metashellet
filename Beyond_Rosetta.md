@@ -71,11 +71,16 @@ The following projects B to D are taken from [ID-less Transactions (XIDT) Demos]
 - A: Phos Universal Function Library (Phunilib)
 - B: RSA Encryption / Decryption using Phos Metashellet
 - C: "Greet with a Secret Phrase" Protocol
-- D: International Money Transfer (including Cryptocurrencies) and Online Tipping
+- D: D1 ReddBuddies, D2 Proletariat Programmers (ProlProgs)
 - ...
-- X: Inter-game communications
+- E: International Money Transfer (including Cryptocurrencies) and Online Tipping
+- F: N Roulette
+- G: Inter-game communications
+- ...
 - Y: Robotics and Artificial Intelligence
 - Z: cloning MAGAF platforms (Phos Cloudless Computing, Phocless)
+
+A to Z, 7 groups of 4 or 3 letters = 26 letters, short medium long final terms, ABCD EFGH IJK LMN O PQRST UVW XYZ, 4 4 3 3 1 5 3 3
 
 Cloudless Computing ....
 
@@ -90,4 +95,5 @@ Eventually, all existing game platforms today can become clusters in a hypergame
 YAHUDI
 
 https://github.com/udexon/UCollab/blob/master/UCollab_1203.md
+
 Tower of Babel .... 
