@@ -74,7 +74,7 @@ The following projects B to D are taken from [ID-less Transactions (XIDT) Demos]
 - A: Phos Universal Function Library (Phunilib)
 - B: [ RSA Encryption / Decryption using Phos Metashellet ](https://github.com/udexon/DatongToken/blob/master/Datong_3_in_1.md)
 - C: [ "Greet with a Secret Phrase" Protocol ](https://github.com/udexon/XIDT/blob/master/Greet_Secret_Phrase.md)
-- D: D1 ReddBuddies, D2 Proletariat Programmers (ProlProgs)
+- D: Programmers Trainers Trainees Networks -- D1 ReddBuddies, D2 Proletariat Programmers (ProlProgs)
 - ...
 - E: [International Money Transfer (including Cryptocurrencies) and Online Tipping](https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md)
 - F: [A New Type of Blockchain based on ID-less Transactions](https://github.com/udexon/XIDT#a-new-type-of-blockchain-based-on-id-less-transactions)
@@ -96,6 +96,11 @@ Two essential steps for Phunilib:
 - build database with [XIDT (ID-less Transactions)](https://github.com/udexon/XIDT): Every programmer may build a database server for the Phos Universal Function Library hosted on a mobile device, desktop computer or virtual machine. A distributed database infrastructure can be constructed using XIDT.
 
 Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized Unix style user ID authentication, including database management systems. XIDT may be used to implement a novel type of DBMS, either by interfacing to an existing Unix style user ID DBMS, or developing the DBMS system completely from scratch.
+
+
+#### D: Programmers Trainers Trainees Networks
+
+
 
 - D: D1 ReddBuddies, D2 Proletariat Programmers (ProlProgs)
 
