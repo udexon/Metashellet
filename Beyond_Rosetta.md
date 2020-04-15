@@ -87,6 +87,9 @@ A to Z, 7 groups of 4 or 3 letters = 26 letters, short medium long final terms, 
 
 Cloudless Computing ....
 
+
+#### A: Phos Universal Function Library (Phunilib)
+
 Two essential steps for Phunilib:
 - colon definition words, 
 - build database with XIDT.
