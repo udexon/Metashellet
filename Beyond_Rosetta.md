@@ -144,10 +144,12 @@ XIDT will then enable decentralized authentication amongst users, thus making co
 
 Eventually, all existing game platforms today can become clusters in a hypergame platform, connected using XIDT, programmed by users and developers using metashellets. 
 
-- Cloudless Computing ....
 
 - YAHUDI
-
 https://github.com/udexon/UCollab/blob/master/UCollab_1203.md
 
+#### Conclusions
 - Tower of Babel .... 
+- Cloudless Computing ....
+
+Tower of Babel and Cloudless Computing are the different names of the same thing ....
