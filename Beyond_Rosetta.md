@@ -100,7 +100,7 @@ Authentication is an essential step in network applications, including database 
 
 #### D: Programmers Trainers Trainees Networks
 
-
+We find it rather curious that despite the great number of social networks that have been created, none of them is dedicated to helping trainers training trainees, enabling trainers and trainess to form larger networks, which may then be able to challenge huge corporations. (Tower of Babel) What is missing from the tale of the Tower of Babel might just be this -- the apprentice networks employed at that time and passed down through generations until industrialization destroyed them, to be replaced with faceless corporate hierarchy. 
 
 - D: D1 ReddBuddies, D2 Proletariat Programmers (ProlProgs)
 
