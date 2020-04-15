@@ -112,9 +112,22 @@ I suspect no one has an up to date, systematic and comprehensive answer to this 
 
 Economics is perhaps yet another subject intentionally made overcomplicated by so called "experts" so that ordinary people cannot learn the language that will influence public policy decision makers, thus monopolized by giant faceless banks and corporations.
 
-When we consider programmer apprenticeship in large scale, then it becomes apparent that perhaps ordinary people's income can be improved greatly if we have an effective and efficient programmer apprenticeship network. All these questions can of course be simulated easily given today's technology and talents. This project can perhaps be included as a subproject of project E (International Money Transfer with XIDT).
+When we consider programmer apprenticeship in large scale, then it becomes apparent that perhaps ordinary people's income can be improved greatly if we have an effective and efficient programmer apprenticeship network. All these questions can of course be simulated easily given today's technology and talents. This project can perhaps be included as a subproject of Project E (International Money Transfer with XIDT).
 
-Project E: is a relatively small application in terms of footprint but can have huge significance in terms of potential number of users).
+Let us consider the man months required to develop Project E and its potential revenues.
+
+Project E is a relatively small application in terms of footprint but can have huge significance in terms of potential number of users).
+
+We estimate Project E requires 12 man months to complete. If we can find 60 programmers who can contribute 8 hours a week (5 times less than 40 hours a week), we may complete it in 1 month.
+
+Suppose we get 100 people to transfer USD10 per month during the first month, and doubling the users every month, we would have the following revenues:
+- Month 1: USD 1k
+- Month 2: USD 2k
+- Month 3: USD 8k
+- Month 4: USD 16k
+- Month 5: USD 32k
+- Month 6: USD 64k
+
 
 Project H: One of the most immediate and profitable applications of XIDT is inter-game communications. Metashellet basically enables programming any element inside a game using text string input. As long as the source code of a game is available, or a core developer implements metashellet in the game, metashellet programming will be available to all users. 
 
