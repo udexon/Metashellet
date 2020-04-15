@@ -98,11 +98,17 @@ Two essential steps for Phunilib:
 Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized Unix style user ID authentication, including database management systems. XIDT may be used to implement a novel type of DBMS, either by interfacing to an existing Unix style user ID DBMS, or developing the DBMS system completely from scratch.
 
 
-#### D: Programmers Trainers Trainees Networks
+#### D: Programmers Apprenticeship Networks
 
-We find it rather curious that despite the great number of social networks that have been created, none of them is dedicated to helping trainers training trainees, enabling trainers and trainess to form larger networks, which may then be able to challenge huge corporations. (Tower of Babel) What is missing from the tale of the Tower of Babel might just be this -- the apprentice networks employed at that time and passed down through generations until industrialization destroyed them, to be replaced with faceless corporate hierarchy. 
+We find it rather curious that despite the great number of social networks that have been created, none of them is dedicated to helping trainers training trainees, enabling trainers and trainess to form larger networks, which may then be able to challenge huge corporations. 
 
-- D: D1 ReddBuddies, D2 Proletariat Programmers (ProlProgs)
+(Tower of Babel) What is missing from the tale of the Tower of Babel might just be this -- the apprentice networks employed at that time and passed down through generations until industrialization destroyed them, to be replaced with faceless corporate hierarchy. 
+
+- D: D1 ReddBuddies and D2 Proletariat Programmers (ProlProgs)
+
+- Question: How many % of programmers may acquire skills from zero to be employable by companies or earning sufficient income from contract projects within 6 months, with or without experienced senior's guidance?
+
+I suspect no one has an up to date, systematic and comprehensive answer to this critical question, that does not just affect the lives of programmers, but economies of the world, as programming is now vital to every field of human activities.
 
 Project E: is a relatively small application in terms of footprint but can have huge significance in terms of potential number of users).
 
