@@ -100,6 +100,9 @@ Two essential steps for Phunilib:
 
 Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized Unix style user ID authentication, including database management systems. XIDT may be used to implement a novel type of DBMS, either by interfacing to an existing Unix style user ID DBMS, or developing the DBMS system completely from scratch.
 
+- YAHUDI
+https://github.com/udexon/UCollab/blob/master/UCollab_1203.md
+
 
 #### Project D: Programmer Apprenticeship Networks
 
@@ -145,8 +148,6 @@ XIDT will then enable decentralized authentication amongst users, thus making co
 Eventually, all existing game platforms today can become clusters in a hypergame platform, connected using XIDT, programmed by users and developers using metashellets. 
 
 
-- YAHUDI
-https://github.com/udexon/UCollab/blob/master/UCollab_1203.md
 
 #### Conclusions
 - Tower of Babel .... 
