@@ -97,9 +97,11 @@ Two essential steps for Phunilib:
 
 Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized Unix style user ID authentication, including database management systems. XIDT may be used to implement a novel type of DBMS, either by interfacing to an existing Unix style user ID DBMS, or developing the DBMS system completely from scratch.
 
-Project D is a relatively small application in terms of footprint but can have huge significance in terms of potential number of users).
+- D: D1 ReddBuddies, D2 Proletariat Programmers (ProlProgs)
 
-One of the most immediate and profitable applications of XIDT is inter-game communications. Metashellet basically enables programming any element inside a game using text string input. As long as the source code of a game is available, or a core developer implements metashellet in the game, metashellet programming will be available to all users. 
+Project E: is a relatively small application in terms of footprint but can have huge significance in terms of potential number of users).
+
+Project H: One of the most immediate and profitable applications of XIDT is inter-game communications. Metashellet basically enables programming any element inside a game using text string input. As long as the source code of a game is available, or a core developer implements metashellet in the game, metashellet programming will be available to all users. 
 
 XIDT will then enable decentralized authentication amongst users, thus making communications between different games possible.
 
