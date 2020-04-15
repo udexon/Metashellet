@@ -91,10 +91,10 @@ Cloudless Computing ....
 #### A: Phos Universal Function Library (Phunilib)
 
 Two essential steps for Phunilib:
-- colon definition words, 
-- build database with XIDT.
+- colon definition words: Every function in any programming language in any operating system, can be mapped as a function word in Phos Metashellet.
+- build database with XIDT (ID-less Transactions): Every programmer may build a database server for the Phos Universal Function Library hosted on a mobile device, desktop computer or virtual machine. A distributed database infrastructure can be constructed using XIDT.
 
-Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized   Unix style user ID authentication. XIDT ....
+Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized Unix style user ID authentication, including database management systems. XIDT may be used to implement a novel type of DBMS, either by interfacing to an existing Unix style user ID DBMS, or developing the DBMS system completely from scratch.
 
 Project D is a relatively small application in terms of footprint but can have huge significance in terms of potential number of users).
 
