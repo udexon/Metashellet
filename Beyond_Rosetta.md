@@ -87,7 +87,9 @@ A to Z, 7 groups of 4 or 3 letters = 26 letters, short medium long final terms, 
 
 Cloudless Computing ....
 
-Two essential steps for Phunilib:- colon definition words, - build database with XIDT.
+Two essential steps for Phunilib:
+- colon definition words, 
+- build database with XIDT.
 
 Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized   Unix style user ID authentication. XIDT ....
 
