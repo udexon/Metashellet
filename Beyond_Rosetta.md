@@ -112,7 +112,7 @@ I suspect no one has an up to date, systematic and comprehensive answer to this 
 
 Economics is perhaps yet another subject intentionally made overcomplicated by so called "experts" so that ordinary people cannot learn the language that will influence public policy decision makers, thus monopolized by giant faceless banks and corporations.
 
-When we consider programmer apprenticeship in large scale, then it becomes apparent that perhaps ordinary people's income can be improved greatly if we have an effective and efficient programmer apprenticeship network. All these questions can of course be simulated easily given today's technology and talents.
+When we consider programmer apprenticeship in large scale, then it becomes apparent that perhaps ordinary people's income can be improved greatly if we have an effective and efficient programmer apprenticeship network. All these questions can of course be simulated easily given today's technology and talents. This project can perhaps be included as a subproject of project E (International Money Transfer with XIDT).
 
 Project E: is a relatively small application in terms of footprint but can have huge significance in terms of potential number of users).
 
