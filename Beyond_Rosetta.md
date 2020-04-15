@@ -69,7 +69,7 @@ The Phos Universal Function Library (Phunilib) and cloning MAGAF platforms (Phos
 
 We may label Phunilib Project A and Phocless Project Z, so that we may label and arrange other projects mentioned in this article and elsewhere B to Y, to signify the chronological order that we may execute them.
 
-The following projects B to D are taken from [ID-less Transactions (XIDT) Demos](https://github.com/udexon/XIDT#id-less-transactions-xidt-demos):
+The following projects B, C and E are taken from [ID-less Transactions (XIDT) Demos](https://github.com/udexon/XIDT#id-less-transactions-xidt-demos):
 
 - A: Phos Universal Function Library (Phunilib)
 - B: [ RSA Encryption / Decryption using Phos Metashellet ](https://github.com/udexon/DatongToken/blob/master/Datong_3_in_1.md)
@@ -84,12 +84,15 @@ The following projects B to D are taken from [ID-less Transactions (XIDT) Demos]
 - Y: Robotics and Artificial Intelligence
 - Z: cloning MAGAF platforms (Phos Cloudless Computing, Phocless)
 
-A to Z, 7 groups of 4 or 3 letters = 26 letters, short medium long final terms, ABCD EFGH IJK LMN O PQRST UVW XYZ, 4 4 3 3 1 5 3 3
+We use groups of 4 or 3 letters from A to Z to signify the choronological order and immediacy of the projects i.e. 
+- short term A, B, C;
+- medium term E, F, G, H;
+- long term I, J, K;
+...
+- final goals X, Y, Z.
 
-Cloudless Computing ....
 
-
-#### A: Phos Universal Function Library (Phunilib)
+#### Project A: Phos Universal Function Library (Phunilib)
 
 Two essential steps for Phunilib:
 - colon definition words: Every function in any programming language in any operating system, can be mapped as a function word in Phos Metashellet.
@@ -98,21 +101,25 @@ Two essential steps for Phunilib:
 Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized Unix style user ID authentication, including database management systems. XIDT may be used to implement a novel type of DBMS, either by interfacing to an existing Unix style user ID DBMS, or developing the DBMS system completely from scratch.
 
 
-#### D: Programmer Apprenticeship Networks
+#### Project D: Programmer Apprenticeship Networks
 
 We find it rather curious that despite the great number of social networks that have been created, none of them is dedicated to helping trainers training trainees, enabling trainers and trainess to form larger networks, which may then be able to challenge huge corporations. 
 
 (Tower of Babel) What is missing from the tale of the Tower of Babel might just be this -- the apprentice networks employed at that time and passed down through generations until industrialization destroyed them, to be replaced with faceless corporate hierarchy. 
 
-- D: D1 ReddBuddies and D2 Proletariat Programmers (ProlProgs)
+- D1 ReddBuddies and D2 Proletariat Programmers (ProlProgs)
 
 - Question: How many % of programmers may acquire skills from zero to be employable by companies or earning sufficient income from contract projects within 6 months, with or without experienced senior's guidance?
 
-I suspect no one has an up to date, systematic and comprehensive answer to this critical question, that does not just affect the lives of programmers, but economies of the world, as programming is now vital to every field of human activities.
+We suspect no one has an up to date, systematic and comprehensive answer to this critical question, that does not just affect the lives of programmers, but economies of the world, as programming is now vital to every field of human activities.
 
 Economics is perhaps yet another subject intentionally made overcomplicated by so called "experts" so that ordinary people cannot learn the language that will influence public policy decision makers, thus monopolized by giant faceless banks and corporations.
 
 When we consider programmer apprenticeship in large scale, then it becomes apparent that perhaps ordinary people's income can be improved greatly if we have an effective and efficient programmer apprenticeship network. All these questions can of course be simulated easily given today's technology and talents. This project can perhaps be included as a subproject of Project E (International Money Transfer with XIDT).
+
+
+#### Project E: [International Money Transfer (including Cryptocurrencies) and Online Tipping](https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md)
+
 
 Let us consider the man months required to develop Project E and its potential revenues.
 
@@ -120,7 +127,7 @@ Project E is a relatively small application in terms of footprint but can have h
 
 We estimate Project E requires 12 man months to complete. If we can find 60 programmers who can contribute 8 hours a week (5 times less than 40 hours a week), we may complete it in 1 month.
 
-Suppose we get 100 people to transfer USD10 per month during the first month, and doubling the users every month, we would have the following revenues:
+Suppose we get 100 users to transfer USD10 per month during the first month, and doubling the users every month, we would have the following revenues:
 - Month 1: USD 1k
 - Month 2: USD 2k
 - Month 3: USD 8k
@@ -129,14 +136,18 @@ Suppose we get 100 people to transfer USD10 per month during the first month, an
 - Month 6: USD 64k
 
 
-Project H: One of the most immediate and profitable applications of XIDT is inter-game communications. Metashellet basically enables programming any element inside a game using text string input. As long as the source code of a game is available, or a core developer implements metashellet in the game, metashellet programming will be available to all users. 
+#### Project H: Inter-games Communications
+
+One of the most immediate and profitable applications of XIDT is inter-game communications. Metashellet basically enables programming any element inside a game using text string input. As long as the source code of a game is available, or a core developer implements metashellet in the game, metashellet programming will be available to all users. 
 
 XIDT will then enable decentralized authentication amongst users, thus making communications between different games possible.
 
 Eventually, all existing game platforms today can become clusters in a hypergame platform, connected using XIDT, programmed by users and developers using metashellets. 
 
-YAHUDI
+- Cloudless Computing ....
+
+- YAHUDI
 
 https://github.com/udexon/UCollab/blob/master/UCollab_1203.md
 
-Tower of Babel .... 
+- Tower of Babel .... 
