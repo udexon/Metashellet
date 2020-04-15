@@ -72,13 +72,14 @@ We may label Phunilib Project A and Phocless Project Z, so that we may label and
 The following projects B to D are taken from [ID-less Transactions (XIDT) Demos](https://github.com/udexon/XIDT#id-less-transactions-xidt-demos):
 
 - A: Phos Universal Function Library (Phunilib)
-- B: RSA Encryption / Decryption using Phos Metashellet
-- C: "Greet with a Secret Phrase" Protocol
+- B: [ RSA Encryption / Decryption using Phos Metashellet ](https://github.com/udexon/DatongToken/blob/master/Datong_3_in_1.md)
+- C: [ "Greet with a Secret Phrase" Protocol ](https://github.com/udexon/XIDT/blob/master/Greet_Secret_Phrase.md)
 - D: D1 ReddBuddies, D2 Proletariat Programmers (ProlProgs)
 - ...
-- E: International Money Transfer (including Cryptocurrencies) and Online Tipping
-- F: N Roulette
-- G: Inter-game communications
+- E: [International Money Transfer (including Cryptocurrencies) and Online Tipping](https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md)
+- F: [A New Type of Blockchain based on ID-less Transactions](https://github.com/udexon/XIDT#a-new-type-of-blockchain-based-on-id-less-transactions)
+- G: [N Roulette](https://github.com/udexon/nroulette) -- the fairest open source online roulette
+- H: Inter-game communications
 - ...
 - Y: Robotics and Artificial Intelligence
 - Z: cloning MAGAF platforms (Phos Cloudless Computing, Phocless)
@@ -92,7 +93,7 @@ Cloudless Computing ....
 
 Two essential steps for Phunilib:
 - colon definition words: Every function in any programming language in any operating system, can be mapped as a function word in Phos Metashellet.
-- build database with XIDT (ID-less Transactions): Every programmer may build a database server for the Phos Universal Function Library hosted on a mobile device, desktop computer or virtual machine. A distributed database infrastructure can be constructed using XIDT.
+- build database with [XIDT (ID-less Transactions)](https://github.com/udexon/XIDT): Every programmer may build a database server for the Phos Universal Function Library hosted on a mobile device, desktop computer or virtual machine. A distributed database infrastructure can be constructed using XIDT.
 
 Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized Unix style user ID authentication, including database management systems. XIDT may be used to implement a novel type of DBMS, either by interfacing to an existing Unix style user ID DBMS, or developing the DBMS system completely from scratch.
 
