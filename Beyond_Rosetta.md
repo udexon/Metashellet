@@ -64,6 +64,9 @@ Answers:
 
 The Phos Universal Function Library (Phunilib) and cloning MAGAF platforms (Phos Cloudless Computing, Phocless) represent the two ends of the spectrum of the Free Software Revolution 2.0, which ___AYNONE___, from 5 years old to 75 years old, programmers and non-programmers can contribute.
 
+
+#### Phos Metashellet Project List
+
 We may label Phunilib Project A and Phocless Project Z, so that we may label and arrange other projects mentioned in this article and elsewhere B to Y, to signify the chronological order that we may execute them.
 
 The following projects B to D are taken from [ID-less Transactions (XIDT) Demos](https://github.com/udexon/XIDT#id-less-transactions-xidt-demos):
