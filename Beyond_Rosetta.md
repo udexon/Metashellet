@@ -1,12 +1,13 @@
 ### Metashellet: Bringing Rosetta Code to the Next Level
 
 - Currently, code on Rosetta Code cannot be used as components of large applications without substantial modifications.
-- With Phos Metashellet, each function in Rosetta Code can be stored as function words and be reused in larger programs. 
+- With Phos Metashellet, each function in Rosetta Code can be stored as function words and be reused in larger programs, eventually building up the [Phos Universal Function Library](https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#project-a-phos-universal-function-library-phunilib), spanning across all known programming languages and operating systems.
 - Of course, such benefits are not just restricted to Rosetta Code, but any function in open source repositories such as GitHub or equivalent can also be reused as function words in Phos Metashellet.
 
-https://en.wikipedia.org/wiki/Tower_of_Babel
 
-The tale of the Tower of Babel has been brought to every corner of the Earth, thanks to [Chinese merchants](https://en.wikipedia.org/wiki/Howqua) funding European Christian colonizers.
+#### The New Tower of Babel &mdash; Free Software Revolution 2.0
+
+The tale of the [Tower of Babel](https://en.wikipedia.org/wiki/Tower_of_Babel) has been brought to every corner of the Earth, thanks to [Chinese merchants](https://en.wikipedia.org/wiki/Howqua) funding European Christian colonizers.
 
 (Yes. We are here to reveal One Belt One Road is not a modern China Communist Party invention. We have been doing it secretly ever since the first Portugese and Spanish merchants set foot on Chinese soils, funding them to become the Mega Christian Empires that conquer the world, where the Chinese rule by proxy.)
 
@@ -16,11 +17,7 @@ What will happen if the "programmers of the world, unite!", using a single super
 
 [Phos Metashellet](https://github.com/udexon/Metashellet/blob/master/README.md) is a Forth derived Reverse Polish Notation shell for metaprogramming, embeddable in any program, any programming language and any operting system. We coin the name Phos as it rhymes with Forth, and it means "light" in Greek, which dispels the darkness of the IT world, as was inscribed in [the Bible](https://en.wikipedia.org/wiki/Let_there_be_light).
 
-Phos Metashellet will bring the Rosetta Code project to the next level, becoming the Tower of Babel project for free software programmers.
-
-https://en.wikipedia.org/wiki/Rosetta_Code
-
-http://rosettacode.org/wiki/Rosetta_Code
+Phos Metashellet will bring the [Rosetta Code project](http://rosettacode.org/wiki/Rosetta_Code) ([Wikipedia](https://en.wikipedia.org/wiki/Rosetta_Code)) to the next level, becoming the Tower of Babel project for free software programmers.
 
 How does it work?
 
@@ -95,13 +92,10 @@ We use groups of 4 or 3 letters from A to Z to signify the choronological order 
 #### Project A: Phos Universal Function Library (Phunilib)
 
 Two essential steps for Phunilib:
-- colon definition words: Every function in any programming language in any operating system, can be mapped as a function word in Phos Metashellet.
+- colon definition words: Every function in any programming language in any operating system, can be mapped as a function word in Phos Metashellet. ( [More details ...](https://github.com/udexon/UCollab/blob/master/UCollab_1203.md) )
 - build database with [XIDT (ID-less Transactions)](https://github.com/udexon/XIDT): Every programmer may build a database server for the Phos Universal Function Library hosted on a mobile device, desktop computer or virtual machine. A distributed database infrastructure can be constructed using XIDT.
 
 Authentication is an essential step in network applications, including database etc. Almost all authentication systems today employ centralized Unix style user ID authentication, including database management systems. XIDT may be used to implement a novel type of DBMS, either by interfacing to an existing Unix style user ID DBMS, or developing the DBMS system completely from scratch.
-
-- YAHUDI
-https://github.com/udexon/UCollab/blob/master/UCollab_1203.md
 
 
 #### Project D: Programmer Apprenticeship Networks
@@ -150,10 +144,6 @@ Eventually, all existing game platforms today can become clusters in a hypergame
 
 
 #### Conclusions
-- Tower of Babel .... 
-- Cloudless Computing ....
-
-Tower of Babel and Cloudless Computing are the different names of the same thing ....
 
 From the list of Phos Metashellet projects above, we may say that they are indeed unprecedented in human history in many respects:
 
