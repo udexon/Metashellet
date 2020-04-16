@@ -104,7 +104,6 @@ We find it rather curious that despite the great number of social networks that 
 
 (Tower of Babel) What is missing from the tale of the Tower of Babel might just be this -- the apprentice networks employed at that time and passed down through generations until industrialization destroyed them, to be replaced with faceless corporate hierarchy. 
 
-- D1 ReddBuddies and D2 Proletariat Programmers (ProlProgs)
 
 - Question: How many % of programmers may acquire skills from zero to be employable by companies or earning sufficient income from contract projects within 6 months, with or without experienced senior's guidance?
 
