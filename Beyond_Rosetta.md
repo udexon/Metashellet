@@ -43,10 +43,10 @@ In most of these Forth ports, the developers did not focus on high level issues,
 
 - https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md#forth--phos-smashlets
 
-Question: Programmers today may ask:
+Question &mdash; Programmers today may ask:
 - Is there anything else I can do besides writing small pieces of code for my company's project?
 
-Answer: Contribute to the [Free Software Revolution 2.0](https://github.com/udexon/Metashellet/blob/master/README.md#free-software-revolution-20), by developing Phos "colon definition words", to build up a ___Universal Function Library___, that consists of all functions in any programming language, in any operating system, ever written by human programmers.
+Answer: Contribute to the [Free Software Revolution 2.0](https://github.com/udexon/Metashellet/blob/master/README.md#free-software-revolution-20), by developing Phos "colon definition words", to build up the ___Phos Universal Function Library___, that consists of all functions in any programming language, in any operating system, ever written by human programmers.
 
 - If Free Software Revolution 1.0 is the creation of GNU Linux tools essentially CLONING proprietary Unix functionalities, and the subsequent development that created the Internet and mobile infrastructure that we have today, we shall define Free Software Revolution 2.0 as free software programmers CLONING existing mobile and Internet platforms owned by MAGAF (Microsoft Apple Google Amazon Facebook) and other tech giants, to create a Cloudless Computing platform that are owned by EVERYONE, not single monolith faceless corporations.
 
