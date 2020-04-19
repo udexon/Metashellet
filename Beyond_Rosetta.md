@@ -70,8 +70,9 @@ The following projects B, C and E are taken from [ID-less Transactions (XIDT) De
 
 - A: Phos Universal Function Library (Phunilib)
 - B: [ RSA Encryption / Decryption using Phos Metashellet ](https://github.com/udexon/DatongToken/blob/master/Datong_3_in_1.md)
-- C: [ "Greet with a Secret Phrase" Protocol ](https://github.com/udexon/XIDT/blob/master/Greet_Secret_Phrase.md)
-- D: Programmers Trainers Trainees Networks -- D1 ReddBuddies, D2 Proletariat Programmers (ProlProgs)
+- C: [ C1 "Greet with a Secret Phrase" Protocol ](https://github.com/udexon/XIDT/blob/master/Greet_Secret_Phrase.md),
+[C2 XIDWeb (ID-less Web)](https://github.com/udexon/XIDT/blob/master/XIDWeb_ID_less_Web.md)
+- D: Programmers Trainers Trainees Networks &mdash; D1 ReddBuddies, D2 Proletariat Programmers (ProlProgs), [ D3 Reddit /r/FiatFutura](https://www.reddit.com/r/FiatFutura/)
 - ...
 - E: [International Money Transfer (including Cryptocurrencies) and Online Tipping](https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md)
 - F: [A New Type of Blockchain based on ID-less Transactions](https://github.com/udexon/XIDT#a-new-type-of-blockchain-based-on-id-less-transactions)
